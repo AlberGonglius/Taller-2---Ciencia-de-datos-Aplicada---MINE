@@ -12,5 +12,5 @@ Aquí se encuentra todo el desarrollo del entendimiento de datos y la regresión
 ### taller_2_notebook.pdf: 
 Aquí se encuentra todo el desarrollo del entendimiento de datos y la regresión realizada en formato pdf.
 
-### Políticas públicas recomendadas.pptx: 
+### Políticas públicas recomendadas.pptx / .pdf: 
 Aquí se encuentran las políticas públicas derivadas de la tarea analítica realizada.
